@@ -1,7 +1,5 @@
 # Universal Music Visualizer
 
-![Visualizer Demo](https://raw.githubusercontent.com/yourusername/MvizM/main/demo.gif)
-
 > **Turn your music into mesmerizing visuals!**
 
 ---
@@ -17,12 +15,6 @@
   - Works on Windows, macOS, and Linux (Python 3.8+).
 - **No Browser Needed:**
   - 100% desktop app. No web server, no nonsense.
-
----
-
-## 🖥️ Demo
-
-https://user-images.githubusercontent.com/yourusername/MvizM/demo.gif
 
 ---
 
