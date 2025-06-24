@@ -93,7 +93,7 @@ MIT License. Do whatever you want, but a star ⭐️ would be awesome!
 
 ## 🌟 Star this repo if you like it!
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/MvizM?style=social)](https://github.com/Boyyey/MvizM)
+[![GitHub stars](https://img.shields.io/github/stars/yourusername/MvizM?style=social)]
 
 ---
 
